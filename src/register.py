@@ -1,4 +1,4 @@
 def register():
-    print("Registration Module")
+    print("Registration Module Updated by Student C")
 
 register()
