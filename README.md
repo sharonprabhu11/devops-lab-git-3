@@ -1,1 +1,1 @@
-devops lab 3 - more and more devops(git) commands 
+devops lab 3 - more and more devops(git) commands
